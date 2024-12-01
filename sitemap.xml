@@ -2,26 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/about/</loc>
+    <loc>https://nonmodernist.com/engl10303/assignments/</loc>
   </url><url>
-    <loc>/assignments/</loc>
+    <loc>https://nonmodernist.com/engl10303/categories/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://nonmodernist.com/engl10303/calendar/</loc>
   </url><url>
-    <loc>/calendar/</loc>
+    <loc>https://nonmodernist.com/engl10303/dlead/</loc>
   </url><url>
-    <loc>/dlead/</loc>
+    <loc>https://nonmodernist.com/engl10303/grp/</loc>
   </url><url>
-    <loc>/grp/</loc>
+    <loc>https://nonmodernist.com/engl10303/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>https://nonmodernist.com/engl10303/makeup/</loc>
   </url><url>
-    <loc>/makeup/</loc>
+    <loc>https://nonmodernist.com/engl10303/policies/</loc>
   </url><url>
-    <loc>/policies/</loc>
+    <loc>https://nonmodernist.com/engl10303/blooms/</loc>
   </url><url>
-    <loc>/blooms/</loc>
-  </url><url>
-    <loc>/tags/</loc>
+    <loc>https://nonmodernist.com/engl10303/tags/</loc>
   </url>
 </urlset>
